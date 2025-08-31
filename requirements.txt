@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+firebase-admin
+google-genai
+pillow
+ffmpeg-python
+pydub
+librosa
+matplotlib
+numpy
+memochain
+requests
